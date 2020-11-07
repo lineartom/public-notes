@@ -62,6 +62,8 @@ In a very short summary:
     1. Bluetooth syncs are fast. Fitbit doesn't require a bunch of refreshes to get it to sync. It just happens about 1-2 seconds after you open the app.
 
 #### The Bad
+1. No always-on screen.
+    1. I knew this was coming, and indeed it matters. During the workday, I kept my Android phone on silent and on a table beside my desk. I didn't have to be interrupted by a ringer, and I could check for updates on my own schedule, just by turning my head for momentary glance. I didn't have to pick up the phone and press a button.
 1. No global camera shortcut
     1. I didn't see this coming. On Pixel 2, you can double-tap the power button and launch the camera from any context.
     1. On iOS, you have to do one of the following:
@@ -71,23 +73,22 @@ In a very short summary:
     1. YOu can al
         1. Swipe from right while on the lock screen, only if the screen is on. If you've recently used the lock button to turn the screen off, you will need to use the button to turn it back on. If you've simply pulled the phone from your pocket, you can swipe immediately, including while the screen is still dark. But if you press the lock button while the screen is about to come on, you will turn the screen back off, and need to turn it back on again before you can swipe. If you've pressed the lock button and then put your phone in your pocket, you will need to remember how recently you did this in order to know how to launch the camera. 
     1. All of the above has turned out to be big deal to me so far. When I want to get off a quick shot, my eyes are on my subject, not the screen, and my mind is on the subject and not trying to figure out what state my phone is probably in.
+1. auto-brightness seems delayed or weak. I do see the brightness level move over the course of the day, but not as much as I want or as quickly as I want, say, when I turn the lights out at night.
 1. Google Maps scrolling is stuttery. It't not smooth like Google Maps on Android, or Apple Maps on iOS. Maybe this is Google's fault, but regardless, I use Google Maps and it's not smooth here.
+1. No wakelock for the Timer App. e.g., if you have a stopwatch up, you have to keep tapping to keep it on the screen.
 1. No universal back button. This may be a design language choice by Apple. I've thought hard about this, and I think it's a bad choice.
     1. Maybe not all apps need a back button, but a lot of them do. When you have a device with primarily full-screen tasks, those tasks are going to be arranged in a stack, and you're going to be navigating backward in that stack a lot.
     1. I considered that perhaps Apple had invented some big-brain UI techniques that eliminated the *need* for a back button, and I could just adjust to the new paradigm. But in practice, tasks are still arranged in a stack, and most things *do* have some kind of way to go back. It just isn't consistent:
-        1. Sometimes back is an arrow in the upper left.
+        1. Sometimes back is an arrow in the upper left (iOS builtins except Safari)
             1. And this is the hardest possible place to reach on the screen for right-handers.
         1. Sometimes back is a word like "Done" in the upper left *or the upper right*
-        1. Sometimes back is an arrow in the bottom left.
+        1. Sometimes back is an arrow in the bottom left (Safari)
         1. Sometimes back is just a tap on a blank part of the screen
         1. Sometimes back is a swipe up
         1. Sometimes back is a swipe down
         1. Sometimes there's a tiny *extra back button* with the name of an app: the last app you were in.
             1. I actually like this one. If you've just entered an app, sometimes you want to go back to the last app, and sometimes you want to go back *within* the now-current app. Typically the former, I would guess.
         1. The incosistency comes with an additional cost: as a user, if you attempt a back gesture and nothing happens, you don't know if you've reached the bottom of the stack or done the gesture wrongly.
-        Safari back button different too.
-        \Some apps put it top left, some put it top right. This isn't a design language. Sometimes you tap a blank area of the screen. Sometimes it’s a tiny arrow under the clock.
-Ok, but when there is a back button annotated for the app you’re going back to, this is a leg up on android. It’s useful to have “back within this app” and “back to the app that linked me here just this time”.  Upper left is still a dumb location for it though. 
 
 
 
@@ -99,8 +100,9 @@ Ok, but when there is a back button annotated for the app you’re going back to
     1. It feels slower than Touch ID or fingerprint login on Android, possibly because it then requires an extra swipe to unlock after you authenticate. And I *want* the extra swipe - I don't want my phone unlocking without my explicit intent to do so - but it's nice on Touch ID that expressing that intent is the same action as providing the biometric.
     1. It does very well in the dark
     1. It does seem to improve over time - it was very fiddly about allowing me to have my head in my hands, or a pillow partly blocking my face, but it has improved, presumably as it better learns my face.
-
-I have to reenter my iCloud password every time I install an app You can’t see any notifications because of the notchDoesn’t autocomplete my email address in text boxes for some reason No command center toggle for VPN Slippery flat edge is impractical for one handed useSometimes I don't know whether the screen is going to come on when I pick it upm or notNo wake lock for stopwatchAuto brightness is weak or laggy or broken Can’t filter gchat messages by favorites
-
-The strange—-Google Authenticator barcodes are not compatible between android and iOS, and haven’t been for years. Something about seed length, or having == in the base64, or white space. 
-Things I got used to----Swiping to home
+1. I often have to reenter my iCloud password to install an app. Maybe this is for apps.
+1. Notifications aren't in the top bar. I'm told I'll get used to this.
+1. Some text boxes - including the Safari URL bar - don't offer autocomplete. I think they are presuming that the app itself is doing a "smarter" autocomplete in those cases, but having the option of using word-based autocomplete would still be useful.
+1. No command-center option for toggling VPN on and off.
+1. autocomplete doesn't auto-complete my email address (super nice in Android for login boxes)
+1. The strange—-Google Authenticator barcodes are not compatible between android and iOS, and haven’t been for years. Something about seed length, or having == in the base64, or white space. OK let's blame Google.
