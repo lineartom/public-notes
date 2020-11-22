@@ -56,7 +56,7 @@ Indeed, many of my Android complaints were arguably just bugs, and my iOS experi
 #### The Good
 
 1. There see to be fewer user-facing bugs.
-    1. No weird hangs, etc. This may be part of why it seems fast.
+    1. No weird hangs, etc. No forcing things to refresh. This may be part of why it seems fast.
 1. It's fast.
     1. Yes, I was upgrading from a 3 year old device.
     1. Bluetooth syncs are fast. Fitbit doesn't require a bunch of refreshes to get it to sync. It just happens about 1-2 seconds after you open the app.
@@ -64,7 +64,7 @@ Indeed, many of my Android complaints were arguably just bugs, and my iOS experi
 1. Ceramic shield, if it is as promised, is a nice surprise. I always go caseless. This phone feels tough. My Pixel 2 XL was tough enough to survive a few drops, but it did eventually accumulate some damage near the end of its life.
 1. The extra camera lenses are great
     1. On the 1x lens, the Pixel 2XL still stands up pretty well to iPhone 12 Pro. Which is to say: they both look great.
-    1. Having actual lenses for optical ".5X" wide-angle and "2X" zoom is great. I've enjoyed using both of those immensely. It's no DSLR, but just going from 1x to 2x optically goes a long way to expanding the photos you can take.
+    1. Having actual lenses for optical ".5X" wide-angle and "2X" zoom makes a *huge* difference. I've enjoyed using both of those immensely. It's no DSLR, but just going from 1x to 2x optically goes a long way to expanding the photos you can take.
     1. Slow motion video quality is unreal. I've never know Android to even come close here.
 1. High quality built-in apps like Apple News, Apple Stocks, Compass.
     1. Even the little touches work very well, e.g., the compass. I haven't had an Android device include a built-in compass in a long while, and the Android compass always seems to be wildly out of calibration. The iPhone compass seems precise and accurate with no fiddling.
